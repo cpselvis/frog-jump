@@ -1,0 +1,23 @@
+{
+  "name": "frog-jump",
+  "version": "1.0.0",
+  "description": "Node.js addons with frog jump probems.",
+  "main": "index.js",
+  "scripts": {
+    "rebuild": "node-pre-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpselvis/frog-jump.git"
+  },
+  "keywords": [
+    "frog-jump",
+    "addons"
+  ],
+  "author": "cpselvis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpselvis/frog-jump/issues"
+  },
+  "homepage": "https://github.com/cpselvis/frog-jump#readme"
+}
